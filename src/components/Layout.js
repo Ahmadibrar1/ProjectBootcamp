@@ -10,7 +10,7 @@ export default function Layout() {
 <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
     <div className="container-fluid">
         <Link className="navbar-brand mt-2 mt-lg-0" to="/">
-            <h5 className="pt-1">Izhar Lora</h5>
+            <h5 className="pt-1">Gold And Silver Price</h5>
         </Link>
         <button className="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="/navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i className="fas fa-bars"></i>
